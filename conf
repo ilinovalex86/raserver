@@ -1,0 +1,7 @@
+{
+  "UpdaterServer": "192.168.1.2:25000",
+  "TcpServer": "192.168.1.2:25001",
+  "StreamServer": "192.168.1.2:25002",
+  "WebServerListner": "192.168.1.2:8080",
+  "WebServer": "192.168.1.2:8080"
+}

@@ -1,0 +1,11 @@
+github.com/ilinovalex86/connection v0.0.1 h1:GF7wEURR/ICOsBuQd6mn1qWqHw70yqopwC062l4kaBs=
+github.com/ilinovalex86/connection v0.0.1/go.mod h1:ICh4SydvoImApEnb7bZdRQOA0N3ryvnpYM0fcvFmLoo=
+github.com/ilinovalex86/explorer v0.0.1 h1:yCxoSomOVJM2q6GFr5TlHAOkPFpUqggUObOWky0akUk=
+github.com/ilinovalex86/explorer v0.0.1/go.mod h1:Wb8nDqWS54ZrJASb0Ona8hmmcORcBWDYSSb9yGwVEkg=
+github.com/ilinovalex86/ratcpserver v0.0.1 h1:CbPjCGwp0i96v4xjutyZUdg6AaX1pP7KdqQkG1WXvf4=
+github.com/ilinovalex86/ratcpserver v0.0.1/go.mod h1:hmBKAAQnPwFXnzHOA0tG+LbP6Mtf+tlZhNInIceGxKM=
+github.com/ilinovalex86/rawebclients v0.0.1 h1:mF5pHuTRwIWLHAcaDDHvil30arr3Zd1uVyOd28cnM1M=
+github.com/ilinovalex86/rawebclients v0.0.1/go.mod h1:SXS7Xf4qExuIpQfGf3FeHfVPEoZW1uEMvAA8d0ZNyso=
+golang.org/x/text v0.3.7 h1:olpwvP2KacW1ZWvsR7uQhoyTYvKAupfQrRGBFM352Gk=
+golang.org/x/text v0.3.7/go.mod h1:u+2+/6zg+i71rQMx5EYifcz6MCKuco9NR6JIITiCfzQ=
+golang.org/x/tools v0.0.0-20180917221912-90fa682c2a6e/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
